@@ -1,5 +1,5 @@
 #importando Tkinter
-# * serve para impotar todas as funções da biblioteca Tkinter
+# * serve para impotar todas as funções da biblioteca
 
 from tkinter import *
 from tkinter import ttk
